@@ -1,1 +1,1 @@
-https://jakubpiksa.github.io/goit-js-hw-06/
+https://jakubpiksa.github.io/goit-js-hw-07/
